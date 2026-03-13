@@ -108,5 +108,8 @@ int main()
     {
         cout << vectorlist_1[i][0] << "," << vectorlist_1[i][1] << "," << vectorlist_1[i][2] << endl;
     }
+    
+    
+    
     return 0;
 }
